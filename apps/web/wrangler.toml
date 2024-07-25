@@ -8,5 +8,5 @@ mode = "smart"
 
 [[d1_databases]]
 binding = "DATABASE"
-database_name = "new-commit"
-database_id = "6e4ffe08-4acc-4436-9677-9fa0d2cf3bfa"
+database_name = "ledatabase"
+database_id = "a00ed52b-0333-4c91-a02c-1fb6b2ddc5af"
